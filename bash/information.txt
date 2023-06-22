@@ -1,0 +1,60 @@
+# Christian Hall
+# Script made 9-14-15
+#
+# Purpose: Gather information about the computer and the users
+
+# Designate the shell
+#!/bin/bash
+
+# Creating my first function: "pause"
+pause(){
+ read -n1 -rsp $'Press any key to continue . . .\n'
+}
+
+clear
+
+echo "Gathering information . . ."
+
+# Processes at this moment
+ps
+
+# Print the current working directory
+pwd
+
+# Basic information about software and hardware
+uname
+
+# Disk space usage
+df
+
+pause
+clear
+ifconfig
+pause
+
+# Include this
+chmod 755 information
+# chmod [read, write, execute(4,2,1)](User, group, everyone) [name of file]
+
+# Execute
+# ./desktop/information
+
+
+
+----
+Bash Notes
+- "export PATH="$PATH:/home/adminuser/Documents/sharedserver/scripts"
+- "chmod u+x guess"
+- "guess.sh"
+- "./guess.sh"
+- ":set nu" - Show lines numbers in vim
+- vim uses interesting colors, but vi uses no color
+- F11 to full screen the terminal
+
+
+
+
+
+
+
+

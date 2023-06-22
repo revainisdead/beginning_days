@@ -1,0 +1,19 @@
+John Smith
+johnsmith@gmail.com
+laptop
+800
+lamp
+55
+#
+Magan Nicole
+magannicole@yahoo.com
+car
+4500
+bed
+200
+#
+Dana Michelle
+danamichelle@aol.com
+house
+350000
+#

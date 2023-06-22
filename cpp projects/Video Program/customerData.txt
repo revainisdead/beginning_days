@@ -1,0 +1,23 @@
+Joe
+Smith
+joe.smith@gmail.com
+Big Joe
+Small Joe
+Average Joe
+#
+Bill
+Clinton
+bill.clinton@yahoo.com
+I say no to movies
+#
+Clark
+Kent
+superman@columbiabasin.edu
+Superman
+Batman
+#
+Halle
+Berry
+catwoman@fake.org
+Cat Woman
+#

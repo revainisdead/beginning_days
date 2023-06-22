@@ -1,0 +1,56 @@
+Acronyms
+
+CSIA - Cyber Security Information Assurance
+AUP - Acceptable Use Privacy
+SSL - Secure Socket Layer
+TLS - Transport Layer Security
+IDS - Intrusion Detection System
+GPL - General Public License
+GPG - GNU Privacy Guard
+PGP - Pretty Good Privacy
+DHCP - Dynamic Host Configuration Protocol
+DNS - Domain Name Services
+CTX - PGP Ciphertext File
+CP/M - Control Program for Microcomputers
+MS-DOS - Microsoft Disk Operating System
+TCP/IP - Transmission Control Protocol/Internet Protocol
+IPX - Internetwork Packet Exchange
+SPX - Sequenced Packet Exchange
+OSI - Open Systems Interconnection
+ICMP - Internet Control Message Protocol
+UDP - User Datagram Protocol
+ATM - Asynchronous Transfer Mode
+HTTP - Hyper Text Transfer Protocol
+HTTPS - Hyper Text Transfer Protocol with SSL
+FTP - File Transfer Protocol
+SFTP - Secure File Transfer Protocol
+FTPS - File Transfer Protocol with SSL
+VPN - Virtual Private Network
+VM - Virtual Machine
+GIF - Graphics Interchange Format
+JIF - Java Intranet Framework
+SMTP - Simple Mail Transfer Protocol
+JPEG - Joint Photographic Experts Group
+MPEG - Motion Picture Experts Group
+PNG - Portable Network Graphics
+BMP - Bitmap
+XCF - eXperimental Computing Facility
+IPSEC - Internet Protocol Security
+SSH - Secure Shell
+RPC - Remote Procedure Call
+RPO - Recovery Point Objective
+RTO - Recovery Time Objective
+BCP - Business Continuity Plan
+DRP - Disaster Recovery Plan
+UCE - Unsolicited Commercial Email
+UBE - Unsolicited Bulk Email
+
+
+
+
+
+Linux:
+PWD - Print Working Directory
+CWD - Current Working Directory
+USR - Unix System Resources
+SU - Switch User

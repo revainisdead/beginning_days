@@ -1,0 +1,66 @@
+RULE #1
+.-= Until you have a job, training and interviewing is your job. Spend *at least* 30 hours per week on training and applying. =-.
+
+Useful information that's free:
+* http://www.opensecuritytraining.info/
+* https://neg9.org
+* http://captf.com/
+* http://ppp.cylab.cmu.edu/wordpress/
+* https://ctftime.org/
+* https://reddit.com/r/netsec
+* https://reddit.com/r/securityctf
+* https://reddit.com/r/programming
+* https://www.codecademy.com/ (NOT .org)
+* http://insecure.org/
+* http://phrack.org/
+* https://cve.mitre.org/cve/
+* https://www.youtube.com/user/DEFCONConference/videos
+
+Services that you should consider subscribing to:
+* https://www.safaribooksonline.com/
+
+Wargames that you should attempt:
+* overthewire.org (Bandit, Leviathan, Natas, then whatever)
+* (everything from the neg9 leaderboard)
+* http://captf.com/practice-ctf/
+* https://picoctf.com lots of cross-discipline stuff in here, 2013 and 2014
+    * https://github.com/picoCTF/picoCTF-Platform-2
+
+
+Things that you should be able to do:
+* exploit the Damn Vulnerable Web Application http://www.dvwa.co.uk/
+* create write-ups for everything that you exploit
+* build your own tools as required (shell scripting, python, C)
+* explain a vulnerability to people that have a computer background, but are not in the security field
+* create an exploit using information from a CVE
+* create a VM environment from scratch (KVM / virtual box / vmware, linux machines, windows machines, networking)
+
+Interesting videos of live problem solving:
+* Geohot starting vortex from overthewire.org (I have the whole set if you want it) https://www.youtube.com/watch?v=aZJM-iIpbqc
+* Geohot trying a week or two later https://www.youtube.com/watch?v=td1KEUhlSuk
+
+Binary reversing / manipulation tools that you should become familiar with (pick a couple):
+* vivisect
+    * http://visi.kenshoto.com/viki/MainPage
+    * https://github.com/vivisect/vivisect
+* binwalk
+    * http://binwalk.org/
+* radare2
+    * http://www.radare.org/r/
+    * https://github.com/radare/radare2
+* peda, and gdb that it runs on top of
+    * https://github.com/longld/peda
+    * http://ropshell.com/peda/
+* lots of things from rapid7, such as...
+    * https://github.com/rapid7/ssh-badkeys
+    * https://github.com/rapid7
+* Hopper, AKA "IDA is too damned expensive"
+    * http://www.hopperapp.com/
+* IDA (only if your company buys it. It's pretty damn expensive.)
+    * https://www.hex-rays.com/products/ida/
+* GNU toolchain
+    * gdb
+    * gcc
+    * make
+    * ldd
+    * objdump

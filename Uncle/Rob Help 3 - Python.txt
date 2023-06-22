@@ -1,0 +1,19 @@
+Rob @ Sunday, September 27
+
+Bash: Guess my number game
+
+Python: Give input file, prints contents in hexadecimal (but have ASCII)
+
+
+Command
+"xxd"
+- Prints file with the hexadecimal code
+
+Create a github account
+
+Write Layman's guide
+"What you need to know to get started"
+
+
+
+

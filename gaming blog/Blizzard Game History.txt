@@ -1,0 +1,39 @@
+Blizzard Game History
+- and compatibility
+
+Games Developed[edit]
+Title	Year	Platform(s)	Genre
+as Silicon & Synapse
+RPM Racing[6]	1991	SNES	Racing video game
+The Lost Vikings[29]	1992	Amiga, Amiga CD32, GBA, MS-DOS, Genesis, SNES	Side-scrolling video game
+Rock n' Roll Racing[29]	1993	SNES, Genesis, GBA	Racing video game
+as Blizzard Entertainment
+Blackthorne[29]	1994	SNES, Sega 32X, MS-DOS, GBA, Mac OS	Platform game
+The Death and Return of Superman[29]	1994	SNES, Genesis	Side-scrolling video game
+Warcraft: Orcs & Humans	1994	MS-DOS, Mac OS	Real-time strategy game
+Justice League Task Force[30]	1995	Genesis, SNES	Versus fighting game
+Warcraft II: Tides of Darkness	1995	MS-DOS, Linux, AmigaOS 4, Mac OS, Saturn, PlayStation, Windows	Real-time strategy game
+Warcraft II: Beyond the Dark Portal	1996	Mac OS, MS-DOS, PlayStation, Saturn, Windows	Expansion pack
+Diablo	1996	Windows, Mac OS, PlayStation	Action role-playing game
+The Lost Vikings 2	1997	SNES, Saturn, PlayStation, Windows	Side-scrolling video game
+StarCraft	1998	Windows, Mac OS, Nintendo 64	Real-time strategy game
+StarCraft: Brood War	1998	Windows, Mac OS	Expansion pack
+Warcraft II: Battle.net Edition	1999	Windows, Mac OS	Real-time strategy game
+Diablo II	2000	Windows, Mac OS, OS X	Action role-playing game
+Diablo II: Lord of Destruction	2001	Windows, Mac OS, OS X	Expansion pack
+Warcraft III: Reign of Chaos	2002	Windows, Mac OS, OS X	Real-time strategy game
+Warcraft III: The Frozen Throne	2003	Windows, Mac OS, OS X	Expansion pack
+World of Warcraft	2004	Windows, OS X	MMORPG
+World of Warcraft: The Burning Crusade	2007	Windows, OS X	Expansion pack
+World of Warcraft: Wrath of the Lich King	2008	Windows, OS X	Expansion pack
+StarCraft II: Wings of Liberty	2010	Windows, OS X	Real-time strategy game
+World of Warcraft: Cataclysm	2010	Windows, OS X	Expansion pack
+Diablo III	2012	Windows, OS X, PlayStation 3, Xbox 360	Action role-playing game
+World of Warcraft: Mists of Pandaria	2012	Windows, OS X	Expansion pack
+StarCraft II: Heart of the Swarm	2013	Windows, OS X	Expansion pack
+Hearthstone: Heroes of Warcraft	2014	Windows, OS X, iOS, Android Digital CCG
+Diablo III: Reaper of Souls	2014	Windows, OS X, PlayStation 3, Xbox 360, PlayStation 4, Xbox One	Expansion pack
+World of Warcraft: Warlords of Draenor	2014	Windows, OS X	Expansion pack
+Heroes of the Storm	2015	Windows, OS X	Multiplayer online battle arena
+Overwatch	In development	Windows, OS X	First person shooter
+StarCraft II: Legacy of the Void	In development	Windows, OS X	Expansion pack

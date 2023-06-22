@@ -1,0 +1,23 @@
+@echo off
+
+:: My first script
+:: 1/29/13
+
+rem Sequence of commands to help fix the internet / assign
+rem myself a new IP address
+
+echo Attempting to fix any internet problems . . .
+
+:ipconfig /release
+:inconfig /flushdns
+:inconfig /registerdns
+:inconfig /renew
+:netsh winsock reset catalog
+:netsh int ip reset reset.log
+:netsh winsock reset
+
+:last one same as third to last one, just doesn't say "catalog"
+
+Pause_
+
+echo Done.

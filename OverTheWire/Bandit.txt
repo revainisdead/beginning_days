@@ -1,0 +1,96 @@
+Level Progression: Information
+Bandit
+---
+
+Level 0
+- Port 22: Telnet/SSH
+- Connect to the "bandit.labs.overthewire.org" host
+- Username: bandit0
+- Password: bandit0
+- New password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
+Level 0-1
+- Use SSH command?
+	- ""
+- Restart putty to login to "bandit1"
+- "du --help"
+- "file --list"
+
+Level 1-2
+- "grep vi | less" - nothing in file
+- "-" is a script!
+- "./-" - Run script
+- "chmod 744 -" - Grant permission
+- Run again.
+- Answer: "cat ./-" (can read but not execute)
+- Explanation:  I can't run the script without permission,
+		but I can "cat the run" of the script to
+		get it to ~display~ its contents because I
+		have permission to read the file.
+- (for level 2-3)
+- Username: 	bandit2
+- Pasword:	CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
+Level 2-3
+- clear
+- whoami
+- ls -alh (directory with permissions)
+- (restart putty)
+- Answer: "vi[cat] spaces\ in\ this\ filename"
+
+- (for level 3-4)
+- Username: bandit3
+- Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+Level 3-4
+- putty: Right click to paste
+- putty: Select to copy
+- pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
+Level 4-5
+- file ./-* (wildcard)
+- cat ./-file07
+- koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+Level 5-6
+- Tried: find -size -1033
+- A: "find ./ -size 1033c
+- cat ./maybehere07/.file2
+- DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+Level 6-7 (Solved)
+- "find /home -group bandit7"
+- "find ./ [in root] -user bandit7"
+- DEFAULT & no permission: ./etc/bandit_pass/bandit7
+- CREATED with permission: ./var/lib/dpkg/info/bandit7.password
+- cat ./var/lib/dpkg/info/bandit7.password
+- HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+Level 7-8
+- Verify the location of data.txt "find data.txt"
+- Inside this folder "ls"
+- Format for grep: grep 'word' 'filename'
+- "grep millionth data.txt"
+- cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+
+Level 8-9
+- A: "sort data.txt | uniq -c | sort -n"
+- UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+
+Level 9-10
+- "ls -l"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

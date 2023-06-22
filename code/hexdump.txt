@@ -1,0 +1,30 @@
+ASCII, Hex
+----------
+Line #1
+I, 49
+want, 77616e74
+to, 746f
+convert, 636f6e76657274
+this, 74686973
+message, 6d657373616765
+to, 746f
+Hex, 486578
+
+Line #2
+But, 427574
+I, 49
+also, 616c736f
+want, 77616e74
+to, 746f
+have, 68617665
+two, 74776f
+lines, 6c696e6573
+
+Line #3
+This, 54686973
+line, 6c696e65
+has, 686173
+commas, 636f6d6d6173
+,,, 2c2c
+,, 2c
+,, 2c

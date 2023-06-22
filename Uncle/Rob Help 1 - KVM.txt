@@ -1,0 +1,35 @@
+Hey Chris!
+
+My apologies for not contacting you earlier, I've had a lot of stuff going on lately. I've CC'd this to my personal email address,
+which will be the one I use from now on for this conversation.
+I'm glad that you're getting to do some hands-on stuff. That's the best way to learn this field.
+
+What I was talking about is creating a virtual machine that contains its own hypervisor (KVM, in this case)
+and then creating some virtual lab infrastructure for you. However, it has occurred to me that you'd get a
+lot more out of the experience if we built it together.
+We can do this either remotely, using Skype / WebEx / something, or one of us can make a trip to the other's house. If you brought your Dad up to
+Bainbridge Island for a weekend it'd be pretty awesome. We could combination LAN / build a lab.
+
+Let me know what works best for you. If you want to get started on your own, here's the rough task list.
+create a 4 GB of RAM VM with vmware player or your hypervisor of choice. Make sure that you enable
+virtualization extensions, if applicable, in the VM configuration.
+install debian 7 amd64 (sometimes known as x86_64) build into the VM. do not install the full desktop environment during the setup process.
+create your main user account
+once the linux installation is completed, install xfce4. It's a much lighter (in the memory sense) desktop environment
+install KVM
+
+***
+
+create four virtual networks
+"VM management", NAT to outside world
+"outside", isolated
+"inside", isolated
+"backplane", isolated
+Once you get to that point then I will help you build the specific utility VMs and network topology. Things that you can expect to be installing
+metasploit
+web server (apache, nginx, whatever)
+DVWA (damn vulnerable web app)
+HackMe Casino (I think this is what it's called)
+wireshark
+FreeBSD + dummynet — this lets you do some interesting latency stuff
+I'll try to respond to questions in the evenings. Definitely think about a visit. :)
